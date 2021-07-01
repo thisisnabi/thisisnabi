@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dotNetCore 
 - 💞️ I’m looking to collaborate on blockchain and web api services
 
-# :running: Today I'm back for more and hard working, Support Me.
+# :running: Today I'm back for hard working, Support Me.
 
 
 <!---
