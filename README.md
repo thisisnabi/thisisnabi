@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning dotNetCore 
 - 💞️ I’m looking to collaborate on blockchain and web api servicesCancel changes
 
-# :running: Today I'm back for hard working, Support Me.
-
 
 <!---
 thisisnabi/thisisnabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
