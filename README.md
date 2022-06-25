@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabi Karampoor
 - 👀 I’m interested in Blockchain & Microservices
-- 🌱 I’m currently learning dotNetCore 
+- 🌱 I’m currently use dotNetCore 
 - 💞️ I’m looking to collaborate on blockchain and web api servicesCancel changes
 
 
