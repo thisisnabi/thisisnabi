@@ -1,4 +1,5 @@
-- 👋 Hi, I'm Nabi Karampour, a senior software engineer at Alibaba, Where I maintain financial-service systems based on the .NET Platform.
+👋 Hi, I'm Nabi Karampour, a senior software engineer at Alibaba, Where I maintain financial-service systems based on the .NET Platform.
+
 Beyond my role at Alibaba, I have an unwavering passion for development and am an active member of the thriving .NET community.
 
 ASP.NET Core from Microsoft has my full attention, and I love sharing my insights through extensive blogging here.
