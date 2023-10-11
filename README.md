@@ -7,7 +7,7 @@ ASP.NET Core from Microsoft has my full attention, and I love sharing my insight
 Engaging with the .NET community, I frequently speak at conferences and user groups in Iran. 
 If you're organizing an event, feel free to reach out — I'd be thrilled to be part of it.
 
-I'm the founder of the `Be a .NET Expert` user group, dedicated to bringing captivating speakers and discussions to our local developer community.
+I'm the founder of the `Be a .NET Expert` group, dedicated to bringing captivating speakers and discussions to our local developer community.
 
 When I'm not immersed in code, you'll find me indulging in my other passions: driving, swimming, and enjoying life in Tehran, Iran, with my wonderful wife.
 
