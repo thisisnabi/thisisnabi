@@ -11,6 +11,8 @@ I'm the founder of the `Be a .NET Expert` group, dedicated to bringing captivati
 
 When I'm not immersed in code, you'll find me indulging in my other passions: driving, swimming, and enjoying life in Tehran, Iran, with my wonderful wife.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnabi&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
+
 <!---
 thisisnabi/thisisnabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
