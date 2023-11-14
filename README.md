@@ -5,7 +5,6 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 ## 🤓 - ME
 
 - Name: Nabi Karampoor (thisisnabi)
-- Company email: n.karmapour@alibaba.ir
 - Twitter: [@thisisnabi](https://twitter.com/thisisnabi)
 - Blog: [thisisnabi.dev](https://thisisnabi.dev)
 
