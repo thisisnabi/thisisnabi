@@ -7,6 +7,8 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 - Name: Nabi Karampoor (thisisnabi)
 - Twitter: [@thisisnabi](https://twitter.com/thisisnabi)
 - Blog: [thisisnabi.dev](https://thisisnabi.dev)
+- Youtube: [@thisisnabi](https://www.youtube.com/@thisisnabi)
+- Coding Calender: [@thisisnabi](https://www.lu.ma/@thisisnabi)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnabi&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
 
