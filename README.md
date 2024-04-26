@@ -30,6 +30,10 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
          <td><a href='https://github.com/thisisnabi/Locator'>🔗 Locator</a></td>
          <td>Locator is a versatile and efficient service designed to provide real-time location information based on user IP addresses.</td>
        </tr>
+       <tr>
+         <td><a href='https://github.com/thisisnabi/Locator'>🪶 more</a></td>
+         <td>Coming soon.</td>
+       </tr>
     </tbody>
 </table>
 
