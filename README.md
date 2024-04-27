@@ -10,7 +10,7 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 - Youtube: [@thisisnabi](https://www.youtube.com/@thisisnabi)
 - Live Coding Calender: [@thisisnabi](https://www.lu.ma/@thisisnabi)
 
-## ⭐️ My System Design Open Source Projects
+## ⭐️ My System Design Projects
 
 <table>
    <tbody>
