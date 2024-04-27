@@ -15,7 +15,7 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 <table>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/thisisnabi/Shortener'>🚀 URL Shortener</a></td>
+         <td width="180px"><a href='https://github.com/thisisnabi/Shortener'>🚀 Shortener</a></td>
          <td>This is a URL shortener service implemented in ASP.NET Core and MongoDB. It allows users to shorten long URLs into shorter, more manageable ones.</td>
        </tr>
        <tr>
