@@ -25,7 +25,7 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
    </thead>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/thisisnabi/Shortener'>🔐 Digital Wallet</a></td>
+         <td width="180px"><a href='https://github.com/thisisnabi/DigitalWallet'>🔐 Digital Wallet</a></td>
           <td>✅</td>
          <td>The E-Commerce User Wallet Service is a vital component of any platform, designed to provide users with a secure and convenient way to manage their funds within the ecosystem.</td>
        </tr>
