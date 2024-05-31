@@ -25,6 +25,11 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
    </thead>
    <tbody>
        <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Notification'>🙅🏼‍♂️ Notify</a></td>
+          <td>✅</td>
+         <td>Notify as a Service is an advanced notification system built using ASP.NET Core and MongoDB. It allows seamless and efficient sending of synchronous and asynchronous messages, ensuring reliable delivery through integrated checks.</td>
+       </tr>
+       <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/DigitalWallet'>🔐 Digital Wallet</a></td>
           <td>✅</td>
          <td>The E-Commerce User Wallet Service is a vital component of any platform, designed to provide users with a secure and convenient way to manage their funds within the ecosystem.</td>
