@@ -8,6 +8,7 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 - Twitter: [@thisisnabi](https://twitter.com/thisisnabi)
 - Blog: [thisisnabi.dev](https://thisisnabi.dev)
 - Youtube: [@thisisnabi](https://www.youtube.com/@thisisnabi)
+- Youtube Farsi: [@thisisnabi_farsi](https://www.youtube.com/@thisisnabi_farsi)
 - Live Coding Calender: [@thisisnabi](https://www.lu.ma/@thisisnabi)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisnabi&label=Profile%20views&color=0e75b6&style=flat" alt="thisisnabi" /> </p>
