@@ -25,6 +25,11 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
       </tr>
    </thead>
    <tbody>
+        <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Catalog'>😻 Catalog</a></td>
+          <td>✅</td>
+         <td>A Catalog Service in the context of e-commerce is a fundamental component that manages the product information displayed on an online store.</td>
+       </tr>
        <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/Notification'>🙅🏼‍♂️ Notify</a></td>
           <td>✅</td>
