@@ -40,5 +40,20 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
           <td>✅</td>
          <td>The E-Commerce User Wallet Service is a vital component of any platform, designed to provide users with a secure and convenient way to manage their funds within the ecosystem.</td>
        </tr>
+       <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Blogger'>🎭 Blogger</a></td>
+          <td>✅</td>
+         <td>This document serves as a guide for building a blog application using Clean Architecture and Domain-Driven Design (DDD) software design approach In ASP.NET Core 8.</td>
+       </tr>
+       <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Shortener'>😒 Shortener</a></td>
+          <td>✅</td>
+         <td>This is a URL shortener service implemented in ASP.NET Core and MongoDB. It allows users to shorten long URLs into shorter, more manageable ones.</td>
+       </tr>
+       <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Locator'>🤞 Locator</a></td>
+          <td>✅</td>
+         <td>The User Locator Service streamlines the process of finding a user's address information within your web applications. It eliminates the need for complex IP address manipulation and leverages the power of Geolocation providers..</td>
+       </tr>
     </tbody>
 </table>
