@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nabi (or @thisisnabi)
  
-Currently at Alibaba, additionally working on the .NET Community to make your life as developer easier!
+Currently at Alibaba, and additionally working on the .NET Community to make your life as a developer easier!
 
 ## 🤓 - ME
 
@@ -15,7 +15,7 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisnabi&show_icons=true)
 
-## ⭐️ My Recent OpenSource Project
+## ⭐️ My Recent OpenSource Projects
 <table>
    <thead>
       <tr>
