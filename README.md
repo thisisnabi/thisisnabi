@@ -26,14 +26,14 @@ Currently at Alibaba, additionally working on the .NET Community to make your li
    </thead>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/thisisnabi/Bagher'>🐎 Bagher</a></td>
+         <td width="180px"><a href='https://github.com/thisisnabi/Bible'>🐎 Bible</a></td>
           <td>✅</td>
          <td>Cloud-based solution that provides a scalable and efficient way to manage, secure, and monitor APIs.</td>
        </tr>    
         <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/Search'>🔍 Search</a></td>
           <td>✅</td>
-         <td>Provides advanced search capabilities to applications without the need for complex infrastructure or extensive development.</td>
+         <td>Provides advanced search capabilities to applications without complex infrastructure or extensive development.</td>
        </tr>    
         <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/Catalog'>😻 Catalog</a></td>
