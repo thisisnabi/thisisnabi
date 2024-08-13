@@ -45,11 +45,6 @@ Currently at Alibaba, and additionally working on the .NET Community to make you
           <td>✅</td>
          <td>Provides advanced search capabilities to applications without complex infrastructure or extensive development.</td>
        </tr>    
-        <tr>
-         <td width="180px"><a href='https://github.com/thisisnabi/Catalog'>😻 Catalog</a></td>
-          <td>✅</td>
-         <td>A Catalog Service in the context of e-commerce is a fundamental component that manages the product information displayed on an online store.</td>
-       </tr>
        <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/Notification'>🙅🏼‍♂️ Notify</a></td>
           <td>✅</td>
@@ -74,6 +69,11 @@ Currently at Alibaba, and additionally working on the .NET Community to make you
          <td width="180px"><a href='https://github.com/thisisnabi/Locator'>🤞 Locator</a></td>
           <td>✅</td>
          <td>The User Locator Service streamlines the process of finding a user's address information within your web applications. It eliminates the need for complex IP address manipulation and leverages the power of Geolocation providers..</td>
+       </tr>
+       <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Catalog'>😻 Catalog</a></td>
+          <td>✅</td>
+         <td>A Catalog Service in the context of e-commerce is a fundamental component that manages the product information displayed on an online store.</td>
        </tr>
     </tbody>
 </table>
