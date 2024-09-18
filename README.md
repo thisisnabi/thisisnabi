@@ -26,6 +26,11 @@ Currently at Alibaba, and additionally working on the .NET Community to make you
    </thead>
    <tbody>
        <tr>
+         <td width="180px"><a href='https://github.com/thisisnabi/Chat'>🙂‍↔️ Chat</a></td>
+          <td>✅</td>
+         <td>Chat as a service based on SignalR for real-time messaging.</td>
+       </tr>    
+       <tr>
          <td width="180px"><a href='https://github.com/thisisnabi/Whiteboard'>🛹 Whiteboard</a></td>
           <td>✅</td>
          <td>A real-time, collaborative drawing and brainstorming for multiple users using SignalR.</td>
