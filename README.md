@@ -7,7 +7,6 @@ Currently at Alibaba, and additionally working on the .NET Community to make you
 - Name: Nabi Karampoor (thisisnabi)
 - Twitter: [@thisisnabi](https://twitter.com/thisisnabi)
 - Youtube: [@thisisnabi](https://www.youtube.com/@thisisnabi)
-- Youtube Farsi: [@thisisnabi_farsi](https://www.youtube.com/@thisisnabi_farsi)
 - Live Coding Calender: [@thisisnabi](https://www.lu.ma/@thisisnabi)
 - System Design Farsi: [thisisnabi.dev](https://thisisnabi.dev)
  
