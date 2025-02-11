@@ -5,6 +5,7 @@ Currently at Alibaba, and additionally working on the .NET Community to make you
 ## 🤓 - ME
 
 - Name: Nabi Karampoor (thisisnabi)
+- Telegram [Persian]: [@thisisnabi_dev](https://t.me/thisisnabi_dev)
 - Twitter: [@thisisnabi](https://twitter.com/thisisnabi)
 - Youtube: [@thisisnabi](https://www.youtube.com/@thisisnabi)
 - Live Coding Calender: [@thisisnabi](https://www.lu.ma/@thisisnabi)
