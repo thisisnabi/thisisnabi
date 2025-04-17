@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nabi (or @thisisnabi)
  
-Currently at Alibaba, and additionally working on the .NET Community to make your life as a developer easier!
+Currently at Digipay, and additionally working on the .NET Community to make your life as a developer easier!
 
 ## 🤓 - ME
 
